@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\braintreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:braintreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\braintreesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:braintreesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\ibraintreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:ibraintreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\braintreeaspexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:braintreeaspexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\views\\checkouts\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:views\\checkouts\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|d:\\_asp.net others\\_paymentgateways\\braintree_aspnet_upgraded\\braintreeaspexample\\views\\checkouts\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F55B7D-A40F-433A-B1FE-F9433F12ADE8}|BraintreeASPExample.csproj|solutionrelative:views\\checkouts\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:29:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:32:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Checkouts\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkouts\\Show.cshtml",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Checkouts\\Show.cshtml",
+              "RelativeToolTip": "Views\\Checkouts\\Show.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:32:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Payment.cs",
+              "RelativeToolTip": "Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:23:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Checkouts\\New.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkouts\\New.cshtml",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Views\\Checkouts\\New.cshtml",
+              "RelativeToolTip": "Views\\Checkouts\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:14:13.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:00:46.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BraintreeConfiguration.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeConfiguration.cs",
+              "RelativeDocumentMoniker": "BraintreeConfiguration.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeConfiguration.cs",
+              "RelativeToolTip": "BraintreeConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:55:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBraintreeConfiguration.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\IBraintreeConfiguration.cs",
+              "RelativeDocumentMoniker": "IBraintreeConfiguration.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\IBraintreeConfiguration.cs",
+              "RelativeToolTip": "IBraintreeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:54:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutsController.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Controllers\\CheckoutsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutsController.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\Controllers\\CheckoutsController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:48:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BraintreeSettings.cs",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeSettings.cs",
+              "RelativeDocumentMoniker": "BraintreeSettings.cs",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeSettings.cs",
+              "RelativeToolTip": "BraintreeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:32:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BraintreeASPExample.csproj",
+              "DocumentMoniker": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeASPExample.csproj",
+              "RelativeDocumentMoniker": "BraintreeASPExample.csproj",
+              "ToolTip": "D:\\_ASP.NET OTHERS\\_PaymentGateways\\braintree_aspnet_upgraded\\BraintreeASPExample\\BraintreeASPExample.csproj",
+              "RelativeToolTip": "BraintreeASPExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T09:31:57.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
